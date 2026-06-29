@@ -1,0 +1,2 @@
+# 3b351f9cea5ab1a6-church-ministry-data-visualiza
+The church ministry tool you'd build yourself — if you had the time.  Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.  ## What's Included  - Church Ministry Data Visualization And Reporting — fully configured and ready to use - Integrated directly in
